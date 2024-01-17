@@ -1,3 +1,3 @@
 Setup :
-npm i --force
+npm i --force 
 npm i bootstrap
